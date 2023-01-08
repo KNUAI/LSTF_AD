@@ -2,7 +2,7 @@
 Long Sequence Time-Series Forecasting & Anomlay Detection
 
 ## Environments
-GPU: NVIDIA TITAN RTX 24GB
+GPU: NVIDIA TITAN RTX 24GB  
 python 3.8
 
 ## Installation
@@ -13,7 +13,7 @@ git clone https://github.com/KNUAI/LSTF_AD.git
 cd LSTF_AD && pip install -r requirements.txt
 ```
 
-If you want to LSTF_AD, put your data in ./SKAB/data
+If you want to LSTF_AD, put your data in ./SKAB/data  
 If you want to sample data for LSTF_AD, you can download this [SKAB](https://github.com/waico/SKAB)  
 ```
 git clone https://github.com/waico/SKAB.git
