@@ -2,7 +2,7 @@
 Long Sequence Time-Series Forecasting & Anomlay Detection
 
 ## Environments
-GPU: NVIDIA TITAN RTX 24GB  
+GPU: NVIDIA TITAN RTX 24GB
 python 3.8
 
 ## Installation
@@ -37,7 +37,7 @@ Write the model you want to use in model!
 Write the ad_model you want to use in ad_model!  
 
 ## Results
-**If you finish the experiment, you can see experiment results in picture directory**
+**If you finish the experiment, you can see experiment results in picture directory**  
 **Also, you can see experiments_log.txt**
 
 
