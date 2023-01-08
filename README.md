@@ -1,5 +1,10 @@
 # LSTF_AD
 Long Sequence Time-Series Forecasting & Anomlay Detection
+
+## Environments
+GPU: NVIDIA TITAN RTX 24GB
+python 3.8
+
 ## Installation
 ```
 git clone https://github.com/KNUAI/LSTF_AD.git
