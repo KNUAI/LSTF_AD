@@ -2,7 +2,7 @@
 Long Sequence Time-Series Forecasting & Anomlay Detection
 
 ## Environments
-GPU: NVIDIA TITAN RTX 24GB
+GPU: NVIDIA TITAN RTX 24GB  
 python 3.8
 
 ## Installation
